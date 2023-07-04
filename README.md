@@ -31,7 +31,7 @@ This is a simple calculator application built using Tkinter, a popular Python GU
 3. Run the application:
 
    ```bash
-   python calculator.py
+   python Calculator.py
    ```
 
 4. Use the calculator by clicking on the buttons or typing directly into the input field.
